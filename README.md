@@ -1,4 +1,4 @@
-# soncoder-bubblesort
+# bubble sort
 
 ## rule
 
